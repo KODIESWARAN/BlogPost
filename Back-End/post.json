@@ -1,0 +1,20 @@
+[
+    {
+        "title":"Intrduction to Node.js",
+        "content":"Node.js is a javascript runtime buit on chrome v8 engine",
+        "category":"programming",
+        "author":"jane",
+        "image":"https://via.placeholder.com/800x400.png?text=Introduction+to+Node.js",
+        "createdAt":"2024-07-15T10:00:00Z",
+        "updatedAt":"2024-07-15T10:00:00Z"
+    },
+    {
+        "title":"Getting started with mongodb",
+        "content":"mongodb is Nosql database",
+        "category":"Database",
+        "author":"Jhon",
+        "image":"https://via.placeholder.com/800x400.png?text=Getting+Started+with+mongodb",
+        "createdAt":"2024-07-16T11:00:00Z",
+        "updatedAt":"2024-07-16T11:00:00Z"
+    }
+]
